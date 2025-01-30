@@ -8,7 +8,8 @@ public class DemoTest3 {
 	
  String name = "mia";
  int num = 22;
- boolean = true;
+ int num1 = 43;
+ 
  
  
 }
