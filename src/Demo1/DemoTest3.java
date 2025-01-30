@@ -5,5 +5,10 @@ public class DemoTest3 {
 		System.out.println("JAVA");
 		
 	}
+	
+ String name = "mia";
+ int num = 22;
 
+ 
+ 
 }
